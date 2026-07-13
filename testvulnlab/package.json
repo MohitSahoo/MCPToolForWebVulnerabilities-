@@ -1,0 +1,9 @@
+{
+  "name": "testvulnlab",
+  "version": "1.0.0",
+  "description": "Zero-dependency deliberately vulnerable lab using native node modules",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
